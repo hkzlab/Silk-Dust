@@ -3,7 +3,7 @@
 #define DSIZE 367
 #define RSIZE 28
 #define OSIZE 32
-#define GAMEN "Silk Dust, part 3"
+#define GAMEN "Silk Dust, parts 3, 4"
 #define DICTHASH
 #define NOSIZEWEIGHT
 #define NOLONGDESC
